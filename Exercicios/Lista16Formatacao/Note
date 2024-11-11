@@ -1,0 +1,82 @@
+16. 20 Códigos que Não Seguem a PEP 8
+1. Exemplo 1: Uso inadequado de espaços e nomes de variáveis.
+def somar (num1, num2):return num1+num2
+resultado =somar(5 ,10)
+print (resultado)
+2. Exemplo 2: Linha muito longa e falta de espaçamento adequado.
+def calcular_area(largura,altura):return largura*altura # Calcula a área de um retângulo
+usando as medidas fornecidas pelo usuário
+3. Exemplo 3: Nome de variável sem seguir o padrão snake_case.
+precoProduto = 100
+taxaDesconto = 0.1
+precoFinal=precoProduto-precoProduto*taxaDesconto
+print(precoFinal)
+4. Exemplo 4: Comentário sem espaçamento e com descrição inadequada.
+x=10 #soma o valor
+y=5
+print(x+y)
+5. Exemplo 5: Função sem docstring e má formatação dos parâmetros.
+def multiplicar(a,b,c):return a*b*c
+6. Exemplo 6: Falta de espaçamento ao redor dos operadores e linhas com mais
+de 79 caracteres.
+def calcularMedia(n1,n2,n3,n4):media=(n1+n2+n3+n4)/4;return media
+7. Exemplo 7: Espaços em branco desnecessários e uso incorreto de imports.
+import math ,sys
+def calcular_raiz ( num ): return math.sqrt(num)
+UC02: Desenvolver Algoritmos com Python
+Página 23 de 34
+8. Exemplo 8: Nome de função e variáveis em CamelCase ao invés de
+snake_case.
+def CalcularDesconto(PrecoOriginal, Desconto): NovoPreco = PrecoOriginal -
+(PrecoOriginal * Desconto); return NovoPreco
+9. Exemplo 9: Indentação incorreta e uso de global sem necessidade.
+def incrementar():
+global valor
+valor=10;valor+=1;print(valor)
+10. Exemplo 10: Nomes de constantes e variáveis sem padronização.
+TAXA = 0.2
+desconto=50
+TOTAL = 100-desconto*TAXA
+print(TOTAL)
+11. Exemplo 11: Ordem incorreta de imports e espaçamento inadequado.
+import os, sys
+import random
+from math import pow,sqrt
+print (sqrt(16))
+12. Exemplo 12: Função com muitos argumentos e sem indentação adequada.
+def calcular_valor(p1,p2,p3,p4,p5):total = p1+p2+p3+p4+p5; return total
+print(calcular_valor(1,2,3,4,5))
+13. Exemplo 13: Função sem espaçamentos entre operadores e comentários não
+padronizados.
+def somar(a,b): #soma dois números
+return a+b
+14. Exemplo 14: Falta de espaçamento e docstrings em funções.
+UC02: Desenvolver Algoritmos com Python
+Página 24 de 34
+def converter_metros_para_centimetros(metros):return metros*100
+15. Exemplo 15: Espaços em branco no final da linha e uso incorreto de
+constantes.
+PI = 3.14
+raio = 5
+area = PI* raio**2
+print (area)
+16. Exemplo 16: Linhas muito longas e ausência de quebras para melhorar a
+legibilidade.
+def calcular_juros(valor, taxa, periodo): valor_final = valor * ((1 + taxa) ** periodo); return
+valor_final
+17. Exemplo 17: Uso de aspas simples e duplas sem consistência no mesmo
+código.
+nome = "João"
+print('Olá,',nome)
+18. Exemplo 18: Funções aninhadas sem espaçamento e com retorno incorreto.
+def calcular(n1,n2):def soma():return n1+n2;return soma()
+19. Exemplo 19: Falta de docstring e nomes de variáveis não descritivos.
+def calc(x,y):return x*y
+20. Exemplo 20: Uso incorreto de tabulações e espaços para indentação.
+def soma(x, y):
+ resultado = x + y
+ return resultado
+Esses exemplos apresentam erros comuns em relação às convenções da PEP 8, como
+uso incorreto de espaços, nomes de variáveis e funções fora dos padrões, falta de
+docstrings e formatações inadequadas. O aluno deve corrigir cada um desses códigos
+para que fiquem em conformidade com as boas práticas de programação em Python.

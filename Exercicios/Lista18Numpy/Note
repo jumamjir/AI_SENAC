@@ -1,0 +1,49 @@
+18. Lista de Exercícios de NumPy
+1. Crie um array NumPy com os números de 1 a 10 e exiba-o na tela.
+2. Crie um array de zeros com tamanho 5 e um array de uns com tamanho 3. Exiba
+ambos.
+3. Crie um array de 10 números inteiros aleatórios entre 0 e 50. Exiba o array e seu
+maior e menor valor.
+4. Crie um array bidimensional (3x3) com números de 1 a 9 e exiba-o.
+5. Calcule a soma de todos os elementos de um array com os números de 1 a 20.
+6. Crie um array com 20 elementos igualmente espaçados entre 0 e 1. Exiba o array.
+7. Multiplique todos os elementos de um array de 5 elementos por 2 e exiba o
+resultado.
+8. Crie dois arrays de 3x3 e realize a multiplicação elemento a elemento (elementwise).
+9. Utilize NumPy para calcular a média, mediana e desvio padrão de um array de
+números aleatórios.
+10. Crie um array de 5x5 com números aleatórios e exiba a matriz transposta desse
+array.
+11. Crie um array com os números de 1 a 10 e exiba apenas os números pares.
+12. Faça um slice de um array 4x4, exibindo apenas os elementos da segunda e
+terceira colunas.
+13. Crie um array de identidade (matriz identidade) de tamanho 4x4 e exiba-o.
+14. Calcule a soma das linhas e das colunas de um array 3x3 com números
+aleatórios.
+15. Substitua todos os elementos menores que 5 em um array por zero e exiba o
+resultado.
+16. Crie um array de números aleatórios de tamanho 10 e ordene-o em ordem
+crescente.
+17. Crie um array 3x3 e calcule o produto de todos os seus elementos.
+18. Utilize a função linspace() para criar um array de 15 elementos igualmente
+espaçados entre 0 e 5.
+19. Crie um array de 10 números e use NumPy para encontrar o índice do maior valor.
+20. Utilize NumPy para criar um array de valores aleatórios entre 0 e 1 e arredonde
+todos os elementos para uma casa decimal.
+21. Crie um array 2x5 e calcule a raiz quadrada de cada elemento.
+22. Crie dois arrays de tamanho 5 e realize a soma, subtração, multiplicação e divisão
+entre eles.
+23. Calcule o determinante de uma matriz 3x3 gerada aleatoriamente usando a
+função linalg.det().
+24. Crie um array de tamanho 8 e transforme-o em uma matriz 2x4. Exiba o novo array.
+25. Gere um array de 100 números aleatórios e exiba o histograma desses valores.
+26. Crie um array de 10 elementos e substitua os valores negativos por zero usando a
+função where().
+27. Utilize a função arange() para criar um array com os números de 50 a 100 com
+passo 5.
+28. Calcule o seno e cosseno de um array de ângulos em radianos (0 a π) e exiba os
+resultados.
+29. Crie uma matriz 4x4 com valores sequenciais de 1 a 16 e extraia a diagonal
+principal.
+30. Use NumPy para encontrar os valores únicos em um array com números
+repetidos.

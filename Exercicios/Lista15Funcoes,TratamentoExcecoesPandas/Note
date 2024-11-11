@@ -1,0 +1,61 @@
+15. Lista de Exercícios Integrando Funções, Tratamento de Exceções e Pandas
+1. Crie uma função ler_csv() que leia um arquivo CSV e retorne um DataFrame.
+Utilize tratamento de exceção para lidar com arquivos inexistentes ou erros de
+leitura.
+2. Escreva uma função calcular_media() que receba um DataFrame e uma coluna
+como parâmetros e retorne a média dos valores dessa coluna. Utilize exceções
+para verificar se a coluna existe.
+3. Faça uma função adicionar_coluna() que receba um DataFrame e adicione uma
+nova coluna com valores fornecidos pelo usuário. Trate exceções para garantir
+que o número de valores corresponde ao número de linhas do DataFrame.
+4. Crie uma função filtrar_dados() que receba um DataFrame, uma coluna e um
+valor, e retorne um novo DataFrame filtrado. Utilize exceções para tratar erros caso
+a coluna não exista.
+5. Escreva uma função salvar_dataframe() que receba um DataFrame e um nome de
+arquivo, e salve o DataFrame em um arquivo CSV. Trate exceções para erros de
+permissão ou caminhos inválidos.
+6. Faça uma função remover_duplicatas() que receba um DataFrame e uma coluna
+como parâmetros e remova as linhas duplicadas com base na coluna fornecida.
+Utilize exceções para tratar erros quando a coluna não existe.
+7. Crie uma função calcular_desvio_padrao() que receba um DataFrame e uma
+coluna e retorne o desvio padrão dos valores. Utilize tratamento de exceções para
+verificar se a coluna contém valores numéricos.
+8. Escreva uma função substituir_valores_nulos() que receba um DataFrame e
+substitua os valores nulos por um valor padrão fornecido. Use exceções para
+garantir que o valor padrão é do tipo adequado.
+9. Faça uma função ordenar_dataframe() que receba um DataFrame e uma coluna e
+retorne o DataFrame ordenado pela coluna especificada. Trate exceções para
+verificar se a coluna é válida.
+10. Crie uma função buscar_valores() que receba um DataFrame, uma coluna e um
+valor para buscar todas as ocorrências desse valor na coluna. Use tratamento de
+exceções para garantir que a busca seja feita em colunas válidas.
+11. Escreva uma função dividir_colunas() que receba um DataFrame e divida os
+valores de uma coluna numérica por um divisor fornecido pelo usuário. Trate
+exceções para evitar divisão por zero e tipos incompatíveis.
+12. Faça uma função carregar_excel() que leia um arquivo Excel e retorne o
+DataFrame. Utilize tratamento de exceção para lidar com erros de leitura de
+arquivo e tipos de arquivo inválidos.
+13. Crie uma função agrupar_por_coluna() que receba um DataFrame, uma coluna
+para agrupar e outra para calcular a soma. Utilize exceções para verificar se as
+colunas existem e se possuem tipos compatíveis para agregação.
+14. Escreva uma função plotar_grafico() que receba um DataFrame e duas colunas, e
+exiba um gráfico de linha dessas colunas. Trate exceções para garantir que as
+colunas sejam numéricas e existam no DataFrame.
+15. Faça uma função converter_tipo() que receba um DataFrame e uma coluna, e
+converta os valores dessa coluna para um tipo especificado (int, float, str). Trate
+exceções para capturar erros de conversão de tipo.
+16. Crie uma função remover_linhas_vazias() que receba um DataFrame e remova
+todas as linhas que contenham valores nulos. Use tratamento de exceção para
+garantir que o DataFrame não esteja vazio após a remoção.
+17. Escreva uma função calcular_correlacao() que receba um DataFrame e duas
+colunas e retorne o coeficiente de correlação entre essas colunas. Trate exceções
+para garantir que ambas as colunas existam e sejam numéricas.
+18. Faça uma função mesclar_dataframes() que receba dois DataFrames e uma
+coluna comum para realizar um merge. Utilize exceções para tratar
+incompatibilidades de tipos e colunas inexistentes.
+19. Crie uma função converter_para_data() que receba um DataFrame e uma coluna,
+e converta os valores para o formato de data (datetime). Use tratamento de
+exceção para lidar com erros de conversão.
+20. Escreva uma função extrair_amostra() que receba um DataFrame e um número n,
+e retorne uma amostra aleatória de n linhas. Utilize exceções para garantir que n
+seja menor ou igual ao número de linhas do DataFrame.

@@ -1,0 +1,114 @@
+20. Lista de Exercícios Integrando Pandas, NumPy e Matplotlib
+1. Crie um DataFrame com 100 valores aleatórios entre 0 e 100 usando NumPy.
+Calcule a média e o desvio padrão dos valores e exiba um gráfico de histograma
+usando Matplotlib.
+
+2. Leia um arquivo CSV com dados de vendas (vendas.csv) usando Pandas, calcule o
+total de vendas por mês e exiba um gráfico de barras com esses dados.
+
+3. Crie um DataFrame com 3 colunas (A, B, C) com 50 valores aleatórios. Use
+Matplotlib para exibir um gráfico de dispersão entre as colunas A e B, colorindo os
+pontos com base nos valores da coluna C.
+
+4. Utilize Pandas para ler um arquivo Excel (dados.xlsx) com informações de
+temperatura ao longo de um ano. Use NumPy para calcular a média mensal e
+exiba um gráfico de linha com a variação da temperatura ao longo dos meses.
+
+5. Gere uma matriz 5x5 com números aleatórios entre 0 e 50 usando NumPy. Crie um
+DataFrame a partir dessa matriz e exiba a matriz de correlação entre as colunas
+usando Matplotlib.
+
+6. Crie um DataFrame com dados fictícios de notas de alunos em três disciplinas.
+Calcule a média das notas por aluno e exiba um gráfico de barras empilhadas com
+as notas das disciplinas.
+
+7. Leia um arquivo CSV com dados financeiros e utilize Pandas para calcular o
+retorno percentual diário. Use Matplotlib para plotar um gráfico de linhas com o
+retorno acumulado.
+
+8. Gere um array de 100 valores aleatórios com distribuição normal usando NumPy.
+Crie um DataFrame e exiba um boxplot para visualizar a distribuição dos dados.
+
+9. Carregue um DataFrame com dados de uma pesquisa (pesquisa.csv). Calcule a
+proporção de respostas para cada categoria e exiba um gráfico de pizza com
+Matplotlib.
+
+10. Utilize NumPy para gerar um array com os valores de seno de 0 a 2π. Crie um
+DataFrame com esses valores e exiba um gráfico de linha do seno usando
+Matplotlib.
+
+11. Crie um DataFrame com dados de vendas de três produtos ao longo de seis
+meses. Use Pandas para calcular a média de vendas de cada produto e Matplotlib
+para exibir um gráfico de barras agrupadas.
+
+12. Leia um arquivo CSV com dados de alunos (alunos.csv) e calcule o desvio padrão
+das notas em cada disciplina usando Pandas e NumPy. Exiba um gráfico de barras
+com os desvios padrão.
+
+13. Gere um DataFrame com valores aleatórios e adicione uma coluna com os valores
+de sua raiz quadrada usando NumPy. Exiba um gráfico de linha com as colunas
+originais e a nova coluna.
+
+14. Carregue um DataFrame com dados de uma pesquisa salarial. Use Pandas para
+agrupar os dados por setor e calcular o salário médio. Exiba um gráfico de barras
+horizontais com os salários médios por setor.
+
+15. Crie um DataFrame com dados de temperatura de várias cidades e use NumPy
+para calcular o desvio padrão por cidade. Exiba um gráfico de linha com as
+temperaturas e sombreie o desvio padrão.
+
+16. Gere um DataFrame com 100 valores aleatórios entre 1 e 10 e exiba um gráfico de
+densidade (KDE) desses valores usando Matplotlib.
+
+17. Leia um arquivo Excel com dados de ações (acoes.xlsx). Calcule a média móvel de
+10 dias e exiba o gráfico da média móvel sobreposto ao gráfico de preços.
+
+18. Crie um DataFrame com as vendas de diferentes categorias de produtos. Use
+Matplotlib para criar um gráfico de área empilhada para visualizar a evolução das
+vendas por categoria ao longo do tempo.
+
+19. Utilize Pandas para ler um arquivo JSON com dados meteorológicos. Use NumPy
+para calcular a média da temperatura máxima e mínima e exiba um gráfico de
+barras comparando esses valores.
+
+20. Gere um DataFrame com 10 colunas de valores aleatórios e use Matplotlib para
+exibir um gráfico de heatmap com a correlação entre as colunas.
+
+21. Crie um DataFrame com dados de uma função polinomial usando NumPy (x^2,
+x^3). Exiba gráficos de linha para cada função usando diferentes estilos de linha.
+
+22. Leia um DataFrame com dados de notas de estudantes e utilize Pandas para
+calcular a nota média por disciplina. Exiba um gráfico de barras com a média de
+cada disciplina.
+
+23. Carregue um arquivo CSV com dados de vendas e calcule o total de vendas por
+produto usando Pandas. Exiba um gráfico de pizza para visualizar a participação
+de cada produto nas vendas totais.
+
+24. Crie um DataFrame com valores aleatórios e use NumPy para substituir valores
+abaixo da média por zero. Exiba um gráfico de linha antes e depois da
+substituição.
+
+25. Leia um arquivo CSV com dados de consumo energético e exiba um gráfico de
+linha com a variação do consumo ao longo do tempo. Use Matplotlib para
+adicionar uma linha de tendência calculada com NumPy.
+
+26. Gere um DataFrame com dados aleatórios e adicione uma coluna com os
+logaritmos dos valores usando NumPy. Exiba gráficos de barras para comparar os
+valores originais e seus logaritmos.
+
+27. Carregue um DataFrame com dados de produção de uma fábrica. Use Pandas
+para calcular a produção média mensal e exiba um gráfico de barras com a
+variação da produção ao longo dos meses.
+
+28. Crie um DataFrame com dados de vendas de produtos ao longo de um ano. Use
+NumPy para calcular o crescimento percentual mês a mês e exiba um gráfico de
+linha.
+
+29. Leia um arquivo Excel com dados financeiros e use Pandas para calcular os
+indicadores de desempenho (P/L, ROE). Exiba um gráfico de barras para comparar
+os indicadores entre diferentes empresas.
+
+30. Gere um DataFrame com dados aleatórios de temperatura e precipitação e exiba
+gráficos de linha duplos com dois eixos y (um para temperatura e outro para
+precipitação).

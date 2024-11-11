@@ -1,0 +1,31 @@
+12. Dicionários
+1. Crie um dicionário com 3 alunos e suas notas. Exiba a média das notas dos
+alunos.
+2. Escreva um programa que crie um dicionário com os meses do ano e o número de
+dias em cada mês. Exiba o número de dias de um mês fornecido pelo usuário.
+3. Faça um programa que leia um dicionário com produtos e preços e permita que o
+usuário adicione um novo produto com preço.
+4. Crie um dicionário com nomes e idades de 5 pessoas e exiba a idade de uma
+pessoa fornecida pelo usuário.
+5. Escreva um programa que crie um dicionário com palavras e suas traduções e
+exiba a tradução de uma palavra fornecida pelo usuário.
+6. Faça um programa que crie um dicionário com números de 1 a 5 como chaves e
+seus quadrados como valores.
+7. Crie um dicionário com 5 cidades e suas populações. Exiba a cidade com a maior
+população.
+8. Escreva um programa que crie um dicionário com os dados de um funcionário
+(nome, cargo, salário) e permita ao usuário atualizar o salário.
+9. Faça um programa que crie um dicionário com produtos e seus estoques. Permita
+ao usuário consultar a quantidade em estoque de um produto.
+10. Crie um dicionário com nomes de alunos e suas médias e exiba apenas os alunos
+com média acima de 7.
+11. Escreva um programa que crie um dicionário com 5 países e suas capitais e
+permita que o usuário adicione novos pares de país-capital.
+12. Faça um programa que leia um dicionário com informações de uma pessoa
+(nome, idade, cidade) e exiba essas informações formatadas.
+13. Crie um dicionário com números de 1 a 10 e suas representações em palavras.
+Exiba a palavra correspondente a um número fornecido pelo usuário.
+14. Escreva um programa que crie um dicionário com nomes de filmes e anos de
+lançamento e permita ao usuário buscar o ano de um filme específico.
+15. Faça um programa que crie um dicionário com itens e preços e exiba o total a
+pagar por uma lista de compras fornecida pelo usuário.

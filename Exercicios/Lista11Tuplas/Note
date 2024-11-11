@@ -1,0 +1,29 @@
+11. Tuplas
+1. Crie uma tupla com 5 números inteiros e exiba o maior número da tupla.
+2. Escreva um programa que leia uma tupla de 5 elementos e exiba a quantidade de
+vezes que um número fornecido pelo usuário aparece na tupla.
+3. Faça um programa que crie uma tupla com os dias da semana e exiba o dia
+correspondente a um número digitado pelo usuário (ex: 1 para Domingo).
+4. Crie uma tupla com 10 números e exiba a soma dos números na primeira metade
+da tupla.
+5. Escreva um programa que leia uma tupla de 5 nomes e exiba o nome na posição 3.
+6. Faça um programa que crie uma tupla com números de 1 a 10 e exiba apenas os
+números ímpares.
+7. Crie uma tupla com 4 notas de um aluno e exiba a média das notas.
+UC02: Desenvolver Algoritmos com Python
+Página 15 de 34
+8. Escreva um programa que leia duas tuplas de 3 números e exiba uma nova tupla
+com a soma dos números nas mesmas posições.
+9. Faça um programa que crie uma tupla com os 12 meses do ano e exiba apenas os
+meses de verão (ex: Dezembro, Janeiro, Fevereiro).
+10. Crie uma tupla com 5 cores e exiba uma cor aleatória da tupla.
+11. Escreva um programa que leia uma tupla de números e converta para uma lista,
+permitindo alterações nos elementos.
+12. Faça um programa que crie uma tupla com 5 frutas e verifique se uma fruta
+digitada pelo usuário está na tupla.
+13. Crie uma tupla de 10 elementos e exiba os elementos que estão nas posições
+pares.
+14. Escreva um programa que leia uma tupla de números e exiba os números
+ordenados de forma crescente.
+15. Faça um programa que crie uma tupla com 3 coordenadas (x, y) e exiba a distância
+entre o primeiro e o segundo ponto

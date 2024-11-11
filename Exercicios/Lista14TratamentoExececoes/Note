@@ -1,0 +1,34 @@
+14. Tratamento de Exceções
+1. Escreva um programa que solicite dois números do usuário e exiba o resultado da
+divisão entre eles. Use tratamento de exceção para evitar divisão por zero.
+2. Crie uma função que leia um número inteiro do usuário. Se o usuário digitar algo
+que não é um número, capture a exceção e exiba uma mensagem de erro.
+3. Faça um programa que leia um arquivo de texto fornecido pelo usuário. Use
+tratamento de exceções para exibir uma mensagem caso o arquivo não exista.
+4. Escreva um programa que solicite ao usuário um índice de uma lista e exiba o
+valor correspondente. Utilize tratamento de exceções para lidar com índices fora
+do intervalo.
+5. Crie uma função que solicite um número do usuário e calcule a raiz quadrada. Use
+tratamento de exceções para lidar com números negativos.
+6. Faça um programa que solicite um número e divida 100 por esse número. Capture
+exceções para divisão por zero e erros de tipo (caso o usuário não digite um
+número).
+7. Escreva uma função que converta uma string para um número inteiro. Use
+tratamento de exceções para capturar erros de conversão.
+8. Crie um programa que leia um número e calcule o logaritmo natural (log). Use
+tratamento de exceções para lidar com valores negativos e zero.
+9. Faça uma função que abra um arquivo, leia seu conteúdo e exiba-o na tela.
+Capture exceções para arquivos inexistentes ou problemas de permissão de
+leitura.
+10. Escreva um programa que solicite um valor numérico e converta para float.
+Capture exceções caso o valor digitado não seja numérico.
+11. Crie um programa que solicite uma data no formato dd/mm/aaaa e utilize
+tratamento de exceções para lidar com entradas incorretas de formato.
+12. Faça um programa que execute uma operação aritmética fornecida pelo usuário
+(ex: 2 + 2) e trate exceções para operadores ou entradas inválidas.
+13. Escreva uma função que solicite uma senha e compare com uma senha fixa.
+Capture exceções caso a senha não atenda aos requisitos mínimos de tamanho.
+14. Crie um programa que solicite um número inteiro e calcule o fatorial, usando
+tratamento de exceção para números negativos.
+15. Faça uma função que leia um valor de um dicionário usando uma chave fornecida
+pelo usuário e trate exceções caso a chave não exista.

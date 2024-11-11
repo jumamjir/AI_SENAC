@@ -1,0 +1,89 @@
+1. Crie um DataFrame com os seguintes dados: nomes (Ana, Bruno, Carlos), idades
+(23, 25, 30) e cidades (São Paulo, Rio de Janeiro, Curitiba). Exiba o DataFrame.
+
+2. Leia um arquivo CSV chamado dados.csv usando Pandas e exiba as 5 primeiras
+linhas do DataFrame.
+
+3. Crie um DataFrame com uma coluna de números de 1 a 10. Calcule a média,
+mediana e desvio padrão dessa coluna.
+
+4. Utilize o método .loc[] para selecionar e exibir os dados da segunda linha de um
+DataFrame.
+
+5. Adicione uma nova coluna ao DataFrame do exercício 1 chamada salário com os
+valores (3000, 3500, 4000). Exiba o DataFrame atualizado.
+
+6. Filtre e exiba as linhas do DataFrame onde a idade é maior que 25.
+
+7. Ordene o DataFrame do exercício 1 por idade em ordem decrescente e exiba o
+resultado.
+
+8. Remova a coluna cidade do DataFrame do exercício 1 e exiba o DataFrame
+atualizado.
+
+9. Crie uma Series com os valores (10, 20, 30, 40, 50). Exiba a soma, o valor máximo
+e o mínimo da Series.
+
+10. Utilize o método .groupby() para agrupar os dados do DataFrame do exercício 1
+pela coluna cidade e exiba a média dos salários.
+
+11. Crie um DataFrame com dados de vendas: produto (A, B, C), quantidade (10, 20,
+30) e preço (100, 150, 200). Calcule o total de vendas por produto (quantidade *
+preço).
+
+12. Carregue um arquivo Excel chamado vendas.xlsx em um DataFrame e exiba as
+colunas disponíveis no arquivo.
+
+13. Adicione uma linha ao DataFrame do exercício 1 com os valores: Diana, 28, Porto
+Alegre, 3800. Exiba o DataFrame atualizado.
+
+14. Substitua os valores nulos em um DataFrame por 0 e exiba o resultado.
+
+15. Renomeie as colunas nome e idade do DataFrame do exercício 1 para Nome
+Completo e Idade Anos, respectivamente. Exiba o DataFrame atualizado.
+
+16. Leia um DataFrame de um arquivo JSON chamado dados.json e exiba as últimas 3
+linhas do DataFrame.
+
+17. Utilize o método .apply() para adicionar 10% ao salário de cada pessoa no
+DataFrame do exercício 1. Exiba o DataFrame atualizado.
+
+18. Crie um DataFrame com dados de funcionários: nome (Pedro, Maria), setor (TI,
+RH), e salário (5000, 4500). Agrupe os dados por setor e calcule a média salarial
+por setor.
+
+19. Remova as linhas duplicadas em um DataFrame com base na coluna nome e
+exiba o DataFrame atualizado.
+
+20. Crie um DataFrame com 10 linhas e 3 colunas com valores aleatórios entre 0 e
+100. Exiba a matriz de correlação das colunas.
+
+21. Exporte o DataFrame do exercício 1 para um arquivo CSV chamado saida.csv.
+
+22. Faça um merge entre dois DataFrames, um contendo nomes e idades, e outro
+contendo nomes e salários. Exiba o DataFrame resultante.
+
+23. Utilize o método .pivot_table() para criar uma tabela dinâmica a partir de um
+DataFrame que contém dados de vendas por produto e região. Exiba a soma das
+vendas por produto e região.
+
+24. Leia um DataFrame de um arquivo CSV, filtre as linhas com base em uma
+condição específica e salve o resultado em um novo arquivo CSV.
+
+25. Crie um gráfico de barras usando os dados do DataFrame do exercício 11,
+mostrando as vendas totais por produto.
+
+26. Crie um DataFrame com as notas de 3 alunos em 4 disciplinas. Calcule a média
+das notas por aluno e por disciplina.
+
+27. Utilize o método .describe() em um DataFrame para exibir as estatísticas
+descritivas básicas das colunas numéricas.
+
+28. Leia um DataFrame de um arquivo CSV e altere o índice para a coluna nome. Exiba
+o DataFrame com o novo índice.
+
+29. Crie um DataFrame com 5 colunas (A, B, C, D, E) e 10 linhas. Calcule a soma de
+cada linha e adicione o resultado como uma nova coluna Soma.
+
+30. Utilize o método .merge() para combinar dois DataFrames com base em uma
+coluna comum e exiba o DataFrame combinado.

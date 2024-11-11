@@ -1,0 +1,61 @@
+13. Lista de Exercícios de Funções: Criação, Acesso e Utilização de Parâmetros
+1. Crie uma função chamada saudacao que receba um nome como parâmetro e
+exiba uma mensagem de boas-vindas.
+2. Escreva uma função soma que receba dois números como parâmetros e retorne a
+soma deles.
+3. Faça uma função quadrado que receba um número como parâmetro e retorne o
+quadrado desse número.
+4. Crie uma função area_retangulo que receba a largura e a altura de um retângulo e
+retorne sua área.
+5. Escreva uma função eh_par que receba um número como parâmetro e retorne
+True se for par e False caso contrário.
+6. Faça uma função maior que receba três números como parâmetros e retorne o
+maior deles.
+7. Crie uma função media que receba uma lista de números e retorne a média dos
+valores.
+8. Escreva uma função conta_letras que receba uma string como parâmetro e
+retorne a quantidade de letras na string.
+9. Faça uma função inverte_string que receba uma string e retorne a string invertida.
+10. Crie uma função fahrenheit_para_celsius que converta uma temperatura de
+Fahrenheit para Celsius. Receba a temperatura em Fahrenheit como parâmetro.
+11. Escreva uma função conta_vogais que receba uma string e retorne o número de
+vogais presentes na string.
+12. Faça uma função hipotenusa que receba os dois catetos de um triângulo
+retângulo e retorne a hipotenusa.
+13. Crie uma função multiplica_lista que receba uma lista de números e um fator
+multiplicativo, retornando uma nova lista com os números multiplicados pelo
+fator.
+14. Escreva uma função formata_data que receba uma data no formato dd/mm/aaaa
+e retorne a data no formato aaaa-mm-dd.
+15. Faça uma função calcula_imc que receba o peso e a altura de uma pessoa e
+retorne o IMC.
+16. Crie uma função conta_palavras que receba uma frase e retorne o número de
+palavras na frase.
+17. Escreva uma função maiusculas que receba uma string e retorne a string com
+todas as letras em maiúsculas.
+18. Faça uma função calcula_desconto que receba o preço de um produto e um
+percentual de desconto e retorne o valor com o desconto aplicado.
+19. Crie uma função concatena que receba duas strings e retorne uma única string
+concatenada.
+20. Escreva uma função eh_bissexto que receba um ano e retorne True se for um ano
+bissexto, e False caso contrário.
+21. Faça uma função conta_caracter que receba uma string e um caractere e retorne
+quantas vezes o caractere aparece na string.
+22. Crie uma função gera_sequencia que receba dois números inteiros e retorne uma
+lista com os números no intervalo especificado.
+23. Escreva uma função soma_pares que receba uma lista de números e retorne a
+soma de todos os números pares da lista.
+24. Faça uma função nome_completo que receba o primeiro nome e o sobrenome e
+retorne o nome completo formatado.
+25. Crie uma função palindromo que receba uma string e retorne True se for um
+palíndromo, e False caso contrário.
+26. Escreva uma função fatorial que receba um número inteiro e retorne o fatorial
+desse número.
+27. Faça uma função calcula_raiz que receba um número e retorne sua raiz quadrada,
+considerando apenas números positivos.
+28. Crie uma função eleva_potencia que receba dois números, base e expoente, e
+retorne a base elevada ao expoente.
+29. Escreva uma função valida_email que receba um email e retorne True se for um
+formato válido e False caso contrário.
+30. Faça uma função ordena_lista que receba uma lista de números e retorne a lista
+ordenada de forma crescente.

@@ -1,0 +1,62 @@
+19. Lista de Exercícios de Matplotlib
+1. Crie um gráfico de linha simples com os valores x = [1, 2, 3, 4] e y = [10, 20, 25, 30].
+Exiba o gráfico.
+2. Faça um gráfico de dispersão (scatter plot) com os pontos x = [5, 7, 8, 5, 6] e y =
+[10, 14, 12, 15, 16]. Personalize os pontos com a cor azul.
+3. Crie um gráfico de barras com os meses do ano (Jan a Jun) e os valores (5, 7, 8, 6,
+2, 9). Adicione rótulos aos eixos e um título ao gráfico.
+4. Faça um histograma de uma distribuição normal de 1000 números aleatórios com
+média 0 e desvio padrão 1. Use 30 bins.
+5. Crie um gráfico de pizza com as porcentagens de vendas de 4 produtos (A = 30%,
+B = 25%, C = 20%, D = 25%). Adicione rótulos e destaque o produto A.
+6. Crie um gráfico de linha com as funções seno e cosseno no intervalo de 0 a 2π.
+Adicione uma legenda para identificar cada função.
+7. Desenhe uma figura com dois gráficos de linha lado a lado: um com os valores x =
+[1, 2, 3, 4] e y = [1, 4, 9, 16] e outro com x = [1, 2, 3, 4] e y = [1, 8, 27, 64].
+8. Utilize Matplotlib para exibir um gráfico de barras horizontais com os valores x = [3,
+8, 1, 10] e rótulos (A, B, C, D).
+9. Faça um gráfico de dispersão com 50 pontos aleatórios, variando as cores dos
+pontos com base em um gradiente de valores.
+10. Crie um gráfico de barras empilhadas para comparar as vendas de dois produtos
+ao longo de três meses (Produto 1: [3, 4, 5], Produto 2: [2, 3, 4]).
+11. Plote um gráfico de linha com a função exponencial (e^x) no intervalo de 0 a 10.
+Personalize a cor da linha para vermelho e adicione um título ao gráfico.
+12. Desenhe um gráfico de linha com estilo de linha tracejada ('--') e cor verde,
+utilizando os valores x = [0, 1, 2, 3] e y = [3, 5, 9, 10].
+13. Crie um gráfico de barras agrupadas para comparar os valores A = [4, 5, 6] e B = [2,
+3, 5] em três categorias (Cat1, Cat2, Cat3).
+14. Faça um gráfico de área preenchida (fill plot) com a função seno de 0 a 2π. Utilize
+uma cor transparente.
+15. Desenhe um gráfico polar com os ângulos de 0 a 2π e os raios variando de 0 a 10.
+Personalize a cor da linha.
+16. Crie um gráfico de linha com um sombreamento (fill_between) entre duas
+funções: y1 = x^2 e y2 = x + 2, para valores de x de 0 a 5.
+17. Exiba um gráfico de dispersão 3D com os pontos aleatórios em um espaço
+tridimensional (x, y, z). Use cores e tamanhos variados para os pontos.
+18. Faça um gráfico de pizza com as porcentagens de 5 categorias, adicione um rótulo
+para cada fatia e um efeito de sombra. Destaque a maior fatia com explode.
+19. Crie um gráfico de linha com múltiplas subplots em uma única figura, mostrando
+diferentes funções matemáticas (seno, cosseno, tangente).
+20. Desenhe um gráfico de barras empilhadas com três séries de dados,
+representando as vendas trimestrais de três produtos. Utilize cores diferentes para
+cada série.
+21. Plote um gráfico de linha usando a função log(x) com valores de x variando de 1 a
+100. Personalize o estilo da linha e adicione marcadores ('o').
+22. Crie um gráfico de dispersão com os pontos coloridos de acordo com seus
+valores usando um mapa de cores (cmap='viridis').
+23. Faça um gráfico de área (stack plot) para mostrar a evolução de três categorias ao
+longo do tempo, com categorias empilhadas.
+24. Desenhe um gráfico de linha duplo para comparar duas séries temporais (A e B)
+em um intervalo de tempo, adicionando rótulos nos eixos e uma legenda.
+25. Plote um gráfico com múltiplas linhas, cada uma representando uma função
+polinomial diferente (x^2, x^3, x^4) no mesmo intervalo.
+26. Faça um gráfico de dispersão com pontos de diferentes tamanhos baseados em
+um terceiro array (sizes = [30, 60, 90, 120, 150]).
+27. Desenhe um gráfico de radar para comparar as pontuações de um jogador em
+cinco habilidades diferentes.
+28. Crie um gráfico de barras 3D para exibir valores aleatórios em uma grade
+tridimensional (x, y, z).
+29. Faça um gráfico de linha com a função sigmoide e destaque a área de
+crescimento rápido usando fill_between.
+30. Desenhe um gráfico de linhas múltiplas com diferentes estilos de linha ('--', '-.', ':') e
+adicione uma legenda para cada linha.
