@@ -1,0 +1,48 @@
+#1-Faça um programa para cadastro de um cliente,os dados serão informados por um usuário, no mínimo 6 informações
+
+#2-Faça um programa para verificar se um número é divisível por 3 e 9 ao mesmo tempo.
+
+# 3-Faça um programa para calcular a média aritmética de alturas de um grupo de 8 pessoas,para cada uma delas verifique se tem a alura menor que 1,6 m mostrar mensagem de estatura baixa,
+# maior que 2,0 m mensagem de estatura alta, entre estes dois valores estatura mediana. Também mostrar
+# o nome de cada uma delas, a altura e a mensagem da estatura , não usar lista.
+
+#4-Um pitdog está precisando de um programa para mostrar o menu de seus x-saladas,
+# utilizando a estrutura de múltiplas escolhas, seja criativo e faça.
+#A saída será quando digitar 0. Pelo menos 6 tipos de x-saladas,3 refrigerantes e 2 sucos.
+
+#5-Faça a soma dos números pares e ímpares entre -234 e 8644.
+
+#6-Faça a multiplicação dos números positivos de 3 a 8987.
+
+#7-Faça um cadastro de uma empresa com os seguintes dados> razão social, nome fasntasia,cnpj
+#endereco(logradouro),complemento,bairro,cep,cidade e Estado.Utilizar lista.
+
+# 8-Faça uma lista com nomes de frutas e com uma fruta informada pelo usuário,
+# verificar se há esta fruta na lista.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
