@@ -1,0 +1,5 @@
+numeros = list(map(float, input("Digite uma lista de números separados por espaço: ").split()))
+maior = max(numeros)
+menor = min(numeros)
+media = sum(numeros) / len(numeros)
+print(f"Maior: {maior}, Menor: {menor}, Média: {media:.2f}")

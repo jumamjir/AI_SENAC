@@ -1,0 +1,158 @@
+1. Comandos de Entrada, Processamento e Saída de Dados
+
+1. Solicite três números inteiros e exiba o resultado da soma dos dois maiores.
+2. Leia a idade e o ano de nascimento de uma pessoa e exiba se as informações são
+compatíveis.
+3. Solicite um número decimal e arredonde-o para o inteiro mais próximo.
+4. Leia o nome e o sobrenome de uma pessoa e exiba-os concatenados, mas com o
+sobrenome primeiro.
+5. Solicite uma frase e exiba a primeira palavra da frase.
+6. Leia dois números inteiros e mostre a diferença entre o quadrado do primeiro e o
+segundo número.
+7. Solicite um número e mostre se ele é múltiplo de 3, 5 ou ambos.
+8. Leia uma quantidade em horas e converta para dias, horas e minutos.
+9. Solicite o preço de um produto e aplique um desconto de 15%, exibindo o novo
+valor.
+10. Leia o nome completo de uma pessoa e exiba a quantidade de letras e palavras.
+
+
+2. Tipos de Dados Dinâmicos e Sua Utilização
+1. Leia uma string e um número inteiro e exiba a string repetida pelo número de vezes
+especificado.
+2. Solicite um número decimal e exiba sua parte inteira e sua parte fracionária.
+3. Leia uma lista de números e exiba o maior, o menor e a média dos valores.
+4. Solicite um valor em segundos e converta para horas, minutos e segundos.
+5. Leia uma string e exiba as palavras em ordem inversa.
+6. Solicite uma data no formato mm/dd/aaaa e exiba a mesma data no formato aaaamm-dd.
+7. Leia uma lista de inteiros e exiba apenas os números ímpares.
+8. Solicite ao usuário uma frase e exiba apenas os caracteres que são letras.
+9. Leia dois números decimais e exiba o resultado da divisão com 4 casas decimais.
+10. Solicite um nome de arquivo com extensão e exiba apenas o nome, sem a
+extensão.
+
+
+3. Variáveis e Constantes
+1. Defina uma constante para o número de horas em um dia e solicite ao usuário um
+valor em horas, convertendo para dias.
+2. Solicite a altura e o peso de uma pessoa e armazene-os em variáveis. Calcule o
+IMC usando uma constante para o valor de conversão.
+3. Defina uma constante para a gravidade na Terra (9.8 m/s²) e calcule a velocidade
+de um objeto em queda livre após t segundos.
+4. Crie variáveis para o preço de três produtos e uma constante para a taxa de
+imposto. Exiba o valor total com imposto.
+5. Defina constantes para os lados de um triângulo e calcule seu perímetro e área
+usando as fórmulas adequadas.
+6. Solicite ao usuário sua altura e armazene esse valor em uma variável. Exiba a
+altura com e sem unidades de medida.
+7. Defina uma constante para a aceleração da gravidade em Marte e calcule o peso
+de um objeto dado seu peso na Terra.
+8. Crie uma constante para o valor do dólar em reais e converta um valor dado em
+reais para dólares.
+9. Armazene o nome e a idade de uma pessoa em variáveis e exiba essas
+informações usando interpolação de strings.
+10. Defina uma constante para a quantidade de dias em um mês específico e calcule
+o valor de horas em um mês.
+
+
+4. Expressões e Operadores
+1. Leia três números e exiba o resultado da multiplicação entre eles.
+2. Solicite um valor em centímetros e exiba em metros e milímetros.
+3. Leia dois números e exiba o maior deles usando operadores lógicos.
+4. Solicite a base e a altura de um triângulo e calcule a área.
+5. Leia dois números e exiba o resto da divisão entre eles.
+6. Solicite um número inteiro e exiba a raiz cúbica desse número.
+7. Leia a altura e o peso de uma pessoa e calcule seu índice de massa corporal (IMC)
+com duas casas decimais.
+8. Solicite um número e exiba o valor absoluto e o valor ao quadrado desse número.
+9. Leia quatro notas e exiba a média ponderada, sendo a maior nota com peso 2.
+10. Solicite dois números e exiba o resultado da multiplicação e divisão inteira entre
+eles.
+
+
+5. Controle de Fluxo: Estrutura Condicional Simples, Composta e Encadeada
+1. Solicite um número e exiba se ele é positivo, negativo ou zero.
+2. Leia a nota de um aluno e exiba se ele foi aprovado, reprovado ou está em
+recuperação (nota entre 5 e 7).
+3. Solicite três números e exiba-os em ordem crescente.
+4. Leia a temperatura de um ambiente e exiba se está abaixo, dentro ou acima da
+faixa de conforto (20°C a 25°C).
+5. Solicite um número e verifique se ele é divisível por 2 ou 7, ou ambos.
+6. Leia a idade de uma pessoa e exiba se ela é criança (até 12), adolescente (13 a
+17), adulta (18 a 64) ou idosa (65 ou mais).
+7. Solicite um valor de salário e calcule um bônus de 10% se o salário for abaixo de
+R$ 2.000, ou 5% se for acima.
+8. Leia o peso de uma pessoa e classifique-o como "leve", "normal", "acima do peso"
+ou "obesidade", com base no IMC.
+9. Solicite um valor de temperatura em Celsius e verifique se ele está abaixo de zero
+(negativo).
+10. Leia três números e exiba se formam um triângulo (a soma de dois lados deve ser
+maior que o terceiro).
+
+
+Pandas
+1. Crie um DataFrame com dados de 5 alunos (nome, nota, idade) e exiba apenas os
+alunos com idade maior que 20.
+2. Carregue um arquivo CSV com dados de produtos e preços, adicione uma coluna
+"Desconto" com 10% de desconto nos preços.
+3. Crie um DataFrame com dados de vendas (produto, quantidade, preço) e calcule
+o valor total vendido por produto.
+4. Adicione uma coluna ao DataFrame que calcula o preço com um acréscimo de
+15% e exiba o DataFrame atualizado.
+5. Leia um DataFrame de um arquivo Excel e exiba todas as colunas que contêm
+valores nulos.
+6. Crie um DataFrame com os dados de uma pesquisa e use .groupby() para calcular
+a média das respostas agrupadas por categoria.
+7. Carregue um arquivo CSV, remova todas as linhas duplicadas com base em uma
+coluna específica e exiba o resultado.
+8. Crie um DataFrame com datas e valores de uma série temporal, e calcule a média
+dos valores em intervalos de 7 dias.
+9. Leia um DataFrame de um arquivo JSON, filtre as linhas em que um valor
+numérico é maior que a média e exiba o resultado.
+10. Adicione uma nova linha a um DataFrame existente e reordene o DataFrame pela
+nova linha.
+
+
+NumPy
+1. Crie um array NumPy de 20 elementos com valores aleatórios entre 0 e 50 e exiba
+apenas os valores que são múltiplos de 5.
+2. Crie dois arrays de 10 elementos e calcule o produto escalar (dot product) entre
+eles.
+3. Gere um array de 100 números aleatórios e normalize os valores (subtraia a média
+e divida pelo desvio padrão).
+4. Crie um array de números de 1 a 50 e utilize slicing para exibir os últimos 10
+elementos em ordem inversa.
+5. Gere um array de 25 elementos aleatórios e substitua todos os valores maiores
+que 10 por 10.
+6. Crie um array bidimensional (4x4) e substitua todos os valores abaixo da média
+por zero.
+7. Gere um array 3D (5x5x5) com números aleatórios e calcule a soma dos
+elementos de cada matriz 2D.
+8. Crie uma matriz identidade de tamanho 6x6 e substitua a diagonal principal por
+números inteiros de 1 a 6.
+9. Crie dois arrays 1D de 10 elementos e utilize broadcasting para multiplicá-los por
+uma constante (ex: 2.5).
+10. Crie um array com ângulos de 0 a 2π e calcule o seno, cosseno e tangente de cada
+valor.
+
+
+Matplotlib
+1. Crie um gráfico de dispersão (scatter plot) com pontos aleatórios e varie a cor dos
+pontos de acordo com seus valores.
+2. Desenhe um gráfico de linhas com múltiplas funções matemáticas (ex: seno,
+cosseno e tangente) no mesmo gráfico.
+3. Plote um gráfico de barras com dados de vendas de três produtos em quatro
+meses e adicione rótulos aos eixos e um título.
+4. Crie um gráfico de pizza com a distribuição de alunos por cursos e destaque o
+curso com o maior número de alunos.
+5. Desenhe um gráfico de linhas e adicione uma linha de tendência calculada
+usando regressão linear.
+6. Plote um histograma com 1000 números aleatórios gerados com distribuição
+normal, usando 40 intervalos (bins).
+7. Crie um gráfico de área para visualizar a distribuição acumulada de dados de
+vendas mensais de dois produtos.
+8. Faça um gráfico de barras horizontais com dados de desempenho de vendedores
+e destaque o vendedor com maior pontuação.
+9. Plote um gráfico de linhas com dois eixos y, onde um exibe a temperatura e o outro
+a precipitação ao longo de um ano.
+10. Desenhe um gráfico 3D de dispersão (scatter plot) com pontos gerados
+aleatoriamente e utilize diferentes cores para cada ponto.

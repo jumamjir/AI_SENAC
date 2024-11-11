@@ -1,0 +1,45 @@
+00 - Fazer um programa que leia as informações de um cliente para cadastro de uma loja.
+No final mostrar todas as informações. - OK
+
+01) Desenvolva um programa que leia a idade de uma pessoa e exiba se ela é maior de idade
+(18 anos ou mais) ou menor de idade - OK
+
+02) Desenvolva um programa que leia um valor numérico e verifique se ele é divisível por 5, por 8 ou por ambos.
+Exiba mensagens apropriadas para cada caso. - OK
+
+03) Desenvolva um programa que leia dois valores numéricos e calcule e exiba tanto a média aritmética
+quanto a média ponderada, sendo o primeiro valor com peso de 30% e o segundo com peso de 70%. - OK
+
+04) Desenvolva um programa que leia três valores numéricos distintos e exiba qual é o maior,
+o menor e o valor intermediário (o do meio). - OK
+
+05) Desenvolva um programa que permita ao usuário inserir uma quantidade definida de registros contendo
+nome, idade e estado civil. O estado civil deve ser escolhido entre 'casado', 'solteiro', 'divorciado' ou 'amasiado'.
+No final, exiba os dados inseridos e a quantidade total de pessoas em cada estado civil. - OK
+
+06) Faça um programa que mostrar os números de 12 a 378 e quantos são pares e quantos são impares. - OK
+
+07) criar um programa com lista de 10 posições para guardar números inteiro - OK
+
+08) criar um programa com lista de 10 posições para guardar números decimais - OK
+
+09) criar um programa com lista de 10 posições para guardar números inteiro positivos informados - OK
+
+10) criar um programa com lista de 10 posições para guardar números inteiro negativos informados - OK
+
+11) criar um programa com lista de 10 posições para guardar números impares informados - OK
+
+12) criar um programa com lista de 10 posições para guardar números pares informados - OK
+
+13) Desenvolva um programa que simule uma urna eletrônica com 4 candidatos: Ze, Mane, Quim e Rap.
+A votação será encerrada quando o número 0 for inserido.
+No final, exiba a quantidade de votos recebidos por cada candidato e quem foi o vencedor.
+
+14) criar um programa com lista  para guardar nomes em uma quantidade definida pelo usuário
+no final mostrar todos.
+
+15) Fazer um programa que leia uma lista de 12 posições e retorne uma outra lista sendo
+que será o inverso da primeira somada por um número informado pelo usuário.
+No final mostrar a primeira e segunda lista.
+
+
