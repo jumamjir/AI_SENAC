@@ -1,0 +1,59 @@
+1. Escreva um programa que leia uma lista de números e utilize um for para exibir se
+cada número é par ou ímpar usando if.
+2. Crie um programa que solicite uma nota entre 0 e 10. Caso a nota seja inválida,
+peça a entrada novamente usando while. Quando uma nota válida for inserida,
+exiba uma mensagem usando if para indicar se o aluno foi aprovado (nota ≥ 7) ou
+reprovado.
+3. Faça um programa que leia o dia da semana (1 a 7) e use match/case para exibir o
+nome do dia correspondente. Utilize while para pedir a entrada novamente caso o
+número seja inválido.
+4. Crie um programa que solicite um número do usuário e, com um for, exiba a
+tabuada do número até 10. Utilize if para exibir uma mensagem especial quando o
+resultado for múltiplo de 5.
+5. Escreva um programa que leia uma lista de palavras e use for e if para contar
+quantas palavras começam com a letra a.
+6. Faça um programa que simule um caixa eletrônico. O usuário deve informar o
+valor a ser sacado. Utilize while para calcular o número de notas de 50, 20, 10 e 5
+necessárias. Use if para verificar a disponibilidade de notas.
+7. Crie um programa que peça ao usuário um número de 1 a 4 e use match/case para
+executar uma operação: 1 para soma, 2 para subtração, 3 para multiplicação e 4
+para divisão. Use if para validar a entrada.
+8. Escreva um programa que leia uma lista de números e utilize for para somar todos
+os números. Se o número for negativo, use if para ignorá-lo e continue somando os
+positivos.
+9. Faça um jogo de adivinhação onde o usuário tem que adivinhar um número de 1 a
+10. Use while para repetir as tentativas até que ele acerte. Utilize if para dar dicas
+se o número é maior ou menor.
+10. Crie um programa que leia o nome de um mês e use match/case para exibir o
+número de dias desse mês. Caso o usuário digite um mês inexistente, use while
+para solicitar a entrada novamente.
+11. Escreva um programa que leia 5 números e utilize for para exibir qual é o maior
+número. Use if dentro do for para comparar os números.
+12. Faça um programa que simule um menu de opções (1 para somar, 2 para subtrair,
+3 para multiplicar, 4 para sair). Use match/case para realizar a operação escolhida
+e while para repetir até o usuário escolher sair.
+13. Crie um programa que peça ao usuário para inserir uma senha e use while para
+verificar a entrada. Exiba uma mensagem de sucesso se a senha estiver correta e
+use if para validar a senha.
+14. Escreva um programa que leia números inteiros do usuário até que ele insira zero.
+Use while para isso e if para somar apenas os números positivos.
+UC02: Desenvolver Algoritmos com Python
+Página 13 de 34
+15. Crie um programa que exiba um menu para o usuário escolher uma operação
+matemática (soma, subtração, multiplicação, divisão). Use match/case para
+escolher a operação e if para verificar se a entrada é válida.
+16. Faça um programa que leia uma sequência de notas e utilize for para calcular a
+média. Utilize if para verificar se alguma nota é inválida (menor que 0 ou maior que
+10) e ignore-a no cálculo.
+17. Crie um programa que gere um número aleatório de 1 a 20 e peça ao usuário para
+adivinhar usando while. Use if para dar dicas e match/case para exibir mensagens
+de vitória ou derrota.
+18. Escreva um programa que leia um número e utilize for para verificar se ele é primo.
+Use if dentro do for para verificar os divisores e um while para pedir um novo
+número até que o usuário insira um número primo.
+19. Crie um programa que simule uma calculadora. Use while para exibir o menu de
+operações (somar, subtrair, multiplicar, dividir) e match/case para executar a
+operação. Use if para verificar erros como divisão por zero.
+20. Faça um programa que leia uma lista de números e utilize for para exibir apenas os
+números ímpares. Use if para verificar se o número é ímpar e while para continuar
+pedindo novos números até o usuário decidir parar.

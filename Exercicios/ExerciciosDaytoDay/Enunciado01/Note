@@ -1,0 +1,26 @@
+0)- Faça um programa que ao ser informado um número verifique se é positivo ou negativo - OK
+
+01) Fazer um programa que leia a idade de uma pessoa e informe se é maior de idade ou não. - OK
+
+02) Fazer um programa que leia o valor da base e altura de um retângulo e retorne se esse retângulo
+é também quadrado - OK
+
+03) Fazer um programa que leia um valor e verifique se é divisível por 3 e 5 ao mesmo tempo - OK
+
+04) Fazer um programa que leia 3 valores e verifique se é possível formar triangulo (para formar
+triangulo nenhum valor pode ser maior que a soma dos demais) - OK
+
+05) Fazer um programa que leia 2 valores e o tipo de media a ser calculada entre eles aritmética
+ou ponderada (1º 30% e 2º 70%) - OK
+
+06) Fazer um programa que leia o consumo médio em metros cúbicos de água de um cliente e o tipo de
+cliente (comercial R$ 2,84 o metro cúbico ou residencial R$ 2,68 o metro cúbico) O algoritmo deverá
+retornar o valor da conta. - OK
+
+07) Fazer um programa que leia o valor de um produto e a condição de pagamento: se for a vista 10%
+de desconto ou a prazo com 15% de juros. O algoritmo deverá retornar o valor final do produto - OK
+
+08) Fazer um programa que leia dois valores e retorne qual é o maior - OK
+
+09) Fazer um programa que leia a quantidade de homens e mulheres que compareceram em uma festa e retorne
+qual teve maior quantidade e o percentual correspondente de cada um. - OK

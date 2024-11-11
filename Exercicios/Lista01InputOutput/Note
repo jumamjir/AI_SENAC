@@ -1,0 +1,59 @@
+1. Solicite o nome e a idade do usuário e exiba uma mensagem de boas-vindas - OK
+
+2. Leia dois números inteiros e mostre a soma, subtração, multiplicação e divisão entre eles - OK
+
+3. Leia a temperatura em graus Celsius e converta para Fahrenheit - OK
+
+4. Leia o raio de um círculo e calcule a área e o perímetro - OK
+
+5. Leia o nome completo de uma pessoa e exiba-o em maiúsculas e minúsculas -OK
+
+6. Solicite o primeiro nome e o sobrenome do usuário e exiba-os separados -OK
+
+7. Leia dois números decimais e mostre o resultado da divisão com duas casas decimais - OK
+
+8. Solicite um número e exiba o seu quadrado e sua raiz quadrada -OK mais ou menos
+
+9. Leia o salário mensal de um funcionário e calcule seu salário anual -OK
+
+10. Solicite ao usuário um número e exiba o número com e sem a parte decimal - OK
+
+11. Leia um número em metros e converta para centímetros e milímetros - OK
+
+12. Solicite dois números e exiba o resultado da adição e da multiplicação entre eles - OK
+
+13. Leia um preço de um produto e aplique um aumento de 20%, exibindo o novo valor - OK
+
+14. Solicite ao usuário um número de minutos e converta para horas -0k
+
+15. Solicite uma frase do usuário e exiba a quantidade de caracteres -OK
+
+16. Solicite dois números inteiros e troque os valores entre as variáveis, exibindo o resultado - OK
+
+17. Defina uma constante para o valor de pi e calcule a área de um círculo com ela.- OK
+
+18. Armazene o nome, idade e altura de uma pessoa em variáveis e exiba essas informações formatadas.- OK
+
+19. Defina uma constante para a taxa de imposto e calcule o valor total de um produto com esse imposto. - OK
+
+20. Leia o nome do usuário e armazene em uma variável e exiba uma constante com um valor fixo. - OK
+
+21. Solicite um número e armazene o dobro desse número em uma constante, exibindo ambos. -OK
+
+22. Defina variáveis para as coordenadas de dois pontos e calcule a distância entre eles - OK
+
+23. Defina constantes para os lados de um retângulo e calcule sua área - OK
+
+24. Solicite o salário de um funcionário e use uma constante de bônus para calcular o salário total - OK
+
+25. Armazene valores dos lados de um triângulo em variáveis e exiba-os. - OK
+
+26. Solicite um valor inicial de depósito e uma constante de juros mensais para exibir o saldo previsto após um mês. - OK
+
+27. Armazene as dimensões de um retângulo e exiba a área e perímetro. - OK
+
+28. Defina uma variável para o número de dias em um ano e exiba o valor anual fixo - OK
+
+29. Armazene um número e defina variáveis para seu dobro, triplo e quádruplo, exibindo-os. OK
+
+30. Leia um valor e use variável de conversão para exibir o valor em unidades de medida de comprimento. OK

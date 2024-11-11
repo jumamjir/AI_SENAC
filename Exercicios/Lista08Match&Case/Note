@@ -1,0 +1,62 @@
+1. Escreva um programa que solicite ao usuário um número de 1 a 7 e use
+match/case para exibir o dia da semana correspondente.
+2. Solicite ao usuário um símbolo matemático (+, -, *, /) e dois números; use
+match/case para realizar a operação indicada.
+3. Faça um programa que leia um número de 1 a 12 e exiba o nome do mês
+correspondente usando match/case.
+4. Crie um programa que solicite uma operação de potência (^) ou raiz quadrada (√)
+e um número, usando match/case para escolher qual operação executar.
+5. Escreva um programa que solicite o nome de um polígono (triângulo, quadrado,
+pentágono, etc.) e exiba o número de lados usando match/case.
+6. Solicite ao usuário um número de 1 a 4 e use match/case para exibir uma estação
+do ano (ex: 1 = verão, 2 = outono, etc.).
+7. Faça um programa que leia uma letra (a, e, i, o, u) e use match/case para indicar se
+é uma vogal ou exiba uma mensagem de erro.
+8. Escreva um programa que leia uma nota de 0 a 10 e use match/case para
+categorizar em Ruim, Regular, Bom e Excelente.
+9. Crie um programa que solicite ao usuário uma operação trigonométrica (seno,
+cosseno, tangente) e um ângulo; use match/case para calcular a operação usando
+o módulo math.
+10. Solicite ao usuário um tipo de transporte (carro, moto, bicicleta, ônibus) e use
+match/case para exibir a quantidade de rodas.
+11. Faça um programa que leia um número de 1 a 5 e exiba um símbolo matemático
+(+, -, *, /, ^) correspondente usando match/case.
+12. Escreva um programa que leia o tipo de animal (cachorro, gato, pássaro) e exiba
+uma característica usando match/case.
+13. Solicite ao usuário uma nota musical (dó, ré, mi, etc.) e use match/case para exibir
+a frequência aproximada da nota em Hz.
+14. Faça um programa que leia um número de 1 a 4 e exiba o tipo de quadrilátero
+(quadrado, retângulo, trapézio, etc.) usando match/case.
+15. Escreva um programa que solicite um tipo de conta (corrente, poupança, salário)
+e use match/case para exibir as características básicas de cada uma.
+16. Crie um programa que solicite uma operação lógica (AND, OR, NOT) e dois valores
+booleanos; use match/case para realizar a operação.
+17. Faça um programa que leia um número de 1 a 10 e use match/case para exibir o
+número por extenso (ex: 1 = "um", 2 = "dois").
+18. Escreva um programa que solicite o nome de um planeta e use match/case para
+exibir a posição dele no sistema solar.
+19. Solicite ao usuário um número que represente uma operação básica (1 = adição, 2
+= subtração, 3 = multiplicação, 4 = divisão) e dois números, usando match/case
+para realizar a operação.
+20. Crie um programa que solicite um idioma (inglês, espanhol, francês) e use
+match/case para exibir uma saudação básica nesse idioma.
+21. Faça um programa que leia o nome de um metal (ouro, prata, bronze) e use
+match/case para exibir a densidade e valor aproximado.
+22. Escreva um programa que solicite ao usuário um formato geométrico (círculo,
+quadrado, triângulo) e use match/case para calcular a área correspondente.
+23. Solicite ao usuário um nome de esporte (futebol, basquete, vôlei) e use
+match/case para exibir o número de jogadores em campo.
+24. Faça um programa que leia um valor e um tipo de conversão (metros para
+centímetros, quilogramas para gramas) e use match/case para converter o valor.
+25. Escreva um programa que solicite uma cor (vermelho, azul, verde) e use
+match/case para exibir a combinação de cores primárias que formam essa cor.
+26. Crie um programa que solicite uma categoria de alimento (fruta, legume, carne) e
+use match/case para exibir exemplos de alimentos.
+27. Faça um programa que leia o nome de uma figura histórica (ex: Newton, Einstein,
+Darwin) e use match/case para exibir uma contribuição científica.
+28. Escreva um programa que solicite um tipo de moeda (dólar, euro, real) e use
+match/case para exibir a cotação aproximada em relação ao real.
+29. Solicite ao usuário um tipo de bebida (água, suco, refrigerante) e use match/case
+para exibir a quantidade média de açúcar.
+30. Crie um programa que solicite uma função matemática (log, exp, sqrt) e um
+número, usando match/case para calcular o resultado com a função math.

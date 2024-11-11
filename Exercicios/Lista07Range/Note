@@ -1,0 +1,19 @@
+1. Exiba os números de 0 a 9 usando range.
+2. Escreva um programa que exiba os números de 5 a 15 usando range.
+3. Faça um programa que exiba os números pares de 0 a 20 usando range.
+4. Exiba os números de 10 a 1 em ordem decrescente usando range.
+5. Escreva um programa que exiba todos os múltiplos de 5 entre 0 e 50 usando range.
+6. Exiba os números de 1 a 100 com um intervalo de 10 usando range.
+7. Crie um programa que exiba a sequência de números de 3 a 30, pulando de 3 em
+3.
+8. Faça um programa que exiba os números de 1 a 10, excluindo o 5 usando range e
+continue.
+9. Exiba os números de 100 a 0, pulando de 20 em 20 usando range.
+10. Escreva um programa que use range para exibir os primeiros 10 números da
+sequência Fibonacci.
+11. Exiba todos os números ímpares entre 1 e 20 usando range.
+12. Faça um programa que exiba números entre 50 e 100 com incremento de 5
+usando range.
+13. Use range para exibir os números de 0 a 10 em uma linha, separados por vírgulas.
+14. Exiba os quadrados dos números de 1 a 5 usando range.
+15. Escreva um programa que use range para exibir números negativos de -1 a -10.

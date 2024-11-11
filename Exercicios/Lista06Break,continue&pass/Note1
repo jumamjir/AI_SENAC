@@ -1,0 +1,27 @@
+1. Escreva um programa que leia números e interrompa quando o usuário digitar um
+número negativo (break).
+2. Solicite ao usuário 10 números e exiba apenas os números pares usando
+continue.
+3. Faça um programa que leia uma lista de palavras e exiba apenas as que não
+começam com a letra "a", usando continue.
+4. Escreva um programa que leia uma lista de números e interrompa a leitura se
+encontrar um número igual a zero (break).
+5. Leia uma frase e exiba as palavras, ignorando as palavras que contenham a letra
+"e" (continue).
+6. Faça um loop que vá de 1 a 10 e use pass para todos os números ímpares.
+7. Solicite números ao usuário e exiba-os até que ele digite 999 (break).
+8. Crie um programa que leia várias notas de alunos e ignore notas menores que zero
+(continue).
+9. Escreva um programa que leia nomes e pare quando o nome "fim" for digitado
+(break).
+10. Faça um programa que leia números e exiba apenas os múltiplos de 4, ignorando
+os demais (continue).
+11. Solicite ao usuário 5 números e use pass para exibir uma mensagem de "Em
+desenvolvimento" sem qualquer processamento.
+12. Leia palavras até que uma palavra com mais de 10 caracteres seja inserida
+(break).
+13. Solicite números e exiba apenas os positivos, ignorando os negativos (continue).
+14. Escreva um programa que leia caracteres de uma string e use pass para
+caracteres especiais, processando apenas letras e números.
+15. Crie um programa que leia valores e finalize ao encontrar um valor maior que 100
+(break).

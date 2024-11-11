@@ -1,0 +1,95 @@
+Lista de Exercícios com Listas
+
+
+Exercício 1: Somar Elementos da Lista
+o Enunciado: Dada uma lista de números inteiros, some todos os
+elementos e exiba o resultado.
+o Estruturas Usar: for, if/else
+
+
+Exercício 2: Contar Elementos Pares e Ímpares
+o Enunciado: Dada uma lista de números fornecido pelo usuário,
+conte quantos são pares e quantos são ímpares.
+o Estruturas Usar: for, if/else
+
+
+Exercício 3: Encontrar o Maior e o Menor Número
+o Enunciado: Encontre o maior e o menor número em uma lista de
+números inteiros. A lista terá que ser preenchida
+o Estruturas Usar: for, if/else
+
+
+Exercício 4: Imprimir Elementos de Índices Pares
+o Enunciado: Imprima todos os elementos que estão nos índices
+pares de uma lista.
+o Estruturas Usar: for, if/else
+o Exemplo:
+frutas = ["maçã", "banana", "laranja", "uva", "pera"]
+
+
+Exercício 5: Multiplicar Elementos por um Valor
+o Enunciado: Multiplique todos os elementos de uma lista por um
+valor fornecido pelo usuário. A lista deve ser preenchida pelo
+usuário.
+o Estruturas Usar: while, if/else
+
+
+Exercício 6: Contar Ocorrências de um Elemento
+o Enunciado: Conte quantas vezes um determinado elemento
+aparece em uma lista. O elemento será informado.
+o Estruturas Usar: for, if/else
+o A lista preenchida:
+lista = [1, 2, 2, 3, 4, 4, 4]
+
+
+Exercício 7: Inserção de dados
+o Enunciado: inserir nome, idade, cpf e endereço.
+o Estruturas Usar: input,print
+
+
+Exercício 8: Média de Notas e Status dos Alunos
+• Enunciado: Criar um programa com uma lista de 100 posições para
+armazenar a média de duas notas de 100 alunos. Verificar o status de cada
+aluno (Aprovado, Recuperação ou Reprovado) e mostrar no final todos os
+alunos com suas notas, médias e status.
+o Status:
+▪ Aprovado: média maior ou igual a 7
+▪ Recuperação: média menor que 7 e maior ou igual a 6
+▪ Reprovado: média menor que 6
+• Estruturas Usar: for, if/elif/else, input, print
+
+
+Exercício 9: Lista de Números Inteiros
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números inteiros fornecidos pelo usuário.
+• Estruturas Usar: for, input, print
+
+
+Exercício 10: Lista de Números Decimais
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números decimais fornecidos pelo usuário.
+• Estruturas Usar: for, input, print
+
+
+Exercício 11: Lista de Números Inteiros Positivos
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números inteiros positivos informados pelo usuário.
+• Estruturas Usar: while, if, input, print
+
+
+Exercício 12: Lista de Números Inteiros Negativos
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números inteiros negativos informados pelo usuário.
+• Estruturas Usar: while, if, input, print
+
+
+Exercício 13: Lista de Números Ímpares
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números ímpares informados pelo usuário.
+• Estruturas Usar: while, if, input, print
+
+
+Exercício 14: Lista de Números Pares
+• Enunciado: Criar um programa com uma lista de 10 posições para guardar
+números pares informados pelo usuário.
+• Estruturas Usar: while, if, input, print

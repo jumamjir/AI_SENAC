@@ -1,0 +1,37 @@
+1.Escreva um programa que leia um número e exiba se ele é positivo ou negativo. - OK
+
+2.Solicite a idade de uma pessoa e exiba se ela é maior ou menor de idade. - OK
+
+3.Leia dois números e exiba qual deles é o maior, ou se são iguais. - OK
+
+4.Solicite a nota de um aluno e exiba se ele foi aprovado (nota ≥ 7), está em
+recuperação (5 ≤ nota < 7) ou reprovado (nota < 5). - OK
+
+5.Leia um número inteiro e verifique se ele é par ou ímpar. - OK
+
+6.Escreva um programa que leia um número de 1 a 7 e exiba o dia da semana
+correspondente. - OK
+
+7.Solicite um ano e verifique se ele é bissexto. - OK
+
+8.Leia três números e exiba o maior deles. - OK
+
+9.Escreva um programa que leia a altura e o peso de uma pessoa e indique sua
+categoria de IMC (abaixo do peso, normal, sobrepeso, obesidade). - OK
+
+10.Solicite ao usuário uma senha e verifique se ela está correta (use uma senha fixa
+para comparação). - OK
+
+11.Leia um número inteiro e exiba se ele é divisível por 3, 5, ambos ou nenhum. - OK
+
+12.Solicite um número e verifique se ele está dentro de um intervalo específico (ex:
+10 a 20). - OK
+
+13.Leia a temperatura e exiba se está frio (abaixo de 15°C), ameno (15 a 25°C) ou
+quente (acima de 25°C). - OK
+
+14.Escreva um programa que solicite o preço de dois produtos e sugira qual é o mais
+barato. - OK
+
+15.Solicite ao usuário um valor numérico e exiba uma mensagem se o valor for
+positivo, negativo ou zero. - OK

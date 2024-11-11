@@ -1,0 +1,32 @@
+3. Expressões e Operadores
+
+1.Leia dois números e exiba a soma, subtração, multiplicação e divisão sem comparar resultados.
+
+2.Solicite três números e exiba a soma dos três sem condições de comparação. - OK
+
+3.Leia um número inteiro e exiba seu quadrado e cubo. - OK
+
+4.Solicite o peso e a altura de uma pessoa e calcule o IMC. - OK
+
+5.Leia um número inteiro e exiba o dobro e a metade desse número. - OK
+
+6.Solicite um número e exiba seu valor absoluto e o negativo do número. - OK
+
+7.Leia três notas e calcule a média aritmética. - OK
+
+
+8.Solicite dois números e exiba a soma, o produto e o resultado da divisão inteira. - OK
+
+9.Leia um número e exiba seu valor ao quadrado e à quarta potência.- OK
+
+10.Solicite um número decimal e exiba-o arredondado para o inteiro mais próximo. -OK
+
+11.Leia dois números e exiba o resultado da operação de módulo entre eles. -OK
+
+12.Solicite um valor em graus e converta para radianos sem condições. -OK
+
+13.Leia um valor e calcule a expressão matemática 3x + 5 sem condições. -OK
+
+14.Solicite um número e calcule o resultado da expressão x^2 + 2x + 1. -OK
+
+15.Leia dois números e exiba o resultado da multiplicação e divisão entre eles, sem condições. -OK

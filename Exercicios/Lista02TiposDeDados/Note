@@ -1,0 +1,29 @@
+1. Leia uma string, um inteiro, um float e um booleano do usuário e exiba os tipos de dados lidos - OK
+
+2. Solicite uma lista de números separados por vírgula e exiba a lista e a soma dos números - OK
+
+3. Leia um número inteiro e mostre seu valor como int, float, e string.- OK
+
+4. Solicite um dicionário (chave: valor) e exiba as chaves e valores separadamente - OK
+
+5. Leia uma data no formato dd/mm/aaaa e exiba o dia, mês e ano separadamente - OK
+
+6. Solicite um nome completo e exiba a quantidade de caracteres em cada palavra - OK
+
+7. Leia uma lista de palavras e exiba a lista concatenada em uma única string. - OK
+
+8. Leia um valor decimal e converta para inteiro e para string, mostrando os resultados - OK
+
+9. Solicite uma frase e converta todas as letras para maiúsculas e minúsculas - OK
+
+10. Leia um número em formato string e exiba-o formatado como moeda - OK
+
+11. Solicite uma lista de nomes e exiba o primeiro e o último nome da lista - OK
+
+12. Leia um texto e exiba apenas os números presentes no texto, se houver - OK
+
+13. Solicite um email e exiba o domínio do email após o @. -OK
+
+14. Leia um número binário (em string) e exiba seu valor em decimal - OK
+
+15. Solicite dois valores booleanos e exiba o resultado das operações and, or e not - OK

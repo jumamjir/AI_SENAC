@@ -1,0 +1,47 @@
+Exercício de entrada e saída
+1 - Faça um programa que leia e mostre nome, idade, sexo. -OK
+2 - Faça um programa que leia 2 números e mostre qual o menor e qual o maior. -OK
+
+
+Exercício de estrutura condicional composta
+
+3 - Faça um programa que leia nome, idade, estado cívil e que será escolhido pelo usuário se é casado, solteiro, divorciado ou amasiado, será fornecido um número para cada opção e será mostrado somente o que escolheu.
+
+Exercício de estrutura condicional encadeada e com laço de repetição.
+
+4 - Faça um programa que leia um peso na Terra e o número de um planeta e mostre o valor do seu peso neste planeta. A relação de planetas é dada a seguir juntamente com o valor das gravidades relativas à Terra.
+Exercício de multiplas escolhas.
+1 - 0,37 Mercúrio
+2 - 0,88 Vênus
+3 - 0,38 Marte
+4 - 2,64 Júpiter
+5 - 1,15 Saturno
+6 - 1,17 Urano
+
+Para calcular o peso no planeta use a fórmula:
+
+(PlanetaTerra/10)*gravidade
+
+Exercício de estrutura de repetição(fazer com todos os laços)
+
+5 - Faça um programa que mostrar os números de 120 a 300
+6 - Faça um programa com nome, idade e sexo de 20 pessoas. Mostrar somente o nome se a pessoa for sexo feminino e tiver mais que 18 anos,
+mostrar qual o nome,sexo e idade de todos, e no final mostrar:
+- Mostrar a média de idades de todos
+- Mostrar a média de idades das mulheres
+- Mostrar a média de idades não mulheres
+- Mostrar a maior média das mulheres e o nome
+- Mostrar a menor média das mulheres e o nome
+- Mostrar a maior média das não mulheres e o nome
+- Mostrar a menor média das não mulheres e o nome
+- A maior idade de todos e o nome
+- A menor idade de todos e o nome
+- A maior idade das mulheres e o nome
+- A menor idade das mulheres e o nome
+- A maior idade de não mulheres e o nome
+- A menor idade de não mulheres e o nome
+
+7 - Faça um programa com números que serão informados e mostre o triplo de cada número. O programa termina quando entrar o número -999.
+
+8 - Faça um programa com os exercício de folha de pagamento.
+
